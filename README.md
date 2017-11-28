@@ -1,2 +1,3 @@
 # wdv-project
-Semester Project for Web Data Visualization.
+
+Exploring the effect of social media prescence on stock price of Coca Cola.
